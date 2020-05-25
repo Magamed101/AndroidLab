@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="city_name_size">20sp</dimen>
+    <dimen name="city_temp_size">20sp</dimen>
+    <dimen name="parameter_name_size">20sp</dimen>
+    <dimen name="parameter_value_size">20sp</dimen>
+    <dimen name="city_name_det_size">40sp</dimen>
+    <dimen name="city_temp_det_size">35sp</dimen>
+
+</resources>
